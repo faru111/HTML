@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    max-width: 1140px;
+    margin: 00 auto;
+}
+
+nav{
+   padding: 1rem;
+   background-color: rgb(70, 70, 71) ;
+}
+
+.nav-con{
+    display: flex;
+    justify-content: space-between;
+}
